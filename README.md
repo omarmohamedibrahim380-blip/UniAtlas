@@ -4,6 +4,8 @@
 >
 > تجربة طالب عربية (RTL) تبدأ بخريطة العالم لاختيار الجامعة، و**UniBg** هي الجامعة المتاحة بالكامل الآن. باقي الجامعات تظهر كـ«قريباً» ويقدر الطالب يسجّل اهتمامه بيها.
 
+[🌍 معاينة مباشرة](https://omarmohamedibrahim380-blip.github.io/UniAtlas/) · [⬇️ تحميل البلجن](uniatlas.zip) · [📘 الدليل الكامل بالعربي](README-AR.md)
+
 ![UniAtlas — الخريطة والجامعات](docs/screenshots/landing-desktop.jpg)
 
 ## ليه UniAtlas؟
